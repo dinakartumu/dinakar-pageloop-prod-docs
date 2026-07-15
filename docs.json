@@ -90,8 +90,8 @@
       "page": "navigating-the-pageloop-dashboard-2"
     },
     {
-      "group": "Pageloop Helpdesk",
       "icon": "folder",
+      "group": "Pageloop Helpdesk",
       "pages": [
         {
           "page": "pageloop-helpdesk/finding-updates-using-pageloop"
@@ -132,8 +132,8 @@
       ]
     },
     {
-      "group": "InVideo",
       "icon": "folder",
+      "group": "InVideo",
       "pages": [
         {
           "page": "invideo/how-does-the-credit-system-work-on-invideo"
@@ -156,8 +156,8 @@
       ]
     },
     {
-      "group": "Planhat",
       "icon": "folder",
+      "group": "Planhat",
       "pages": [
         {
           "page": "planhat/how-to-navigate-planhat"
@@ -189,8 +189,8 @@
       ]
     },
     {
-      "group": "Sybill",
       "icon": "folder",
+      "group": "Sybill",
       "pages": [
         {
           "page": "sybill/test-sample-article"
@@ -213,8 +213,8 @@
       ]
     },
     {
-      "group": "SuperOps",
       "icon": "folder",
+      "group": "SuperOps",
       "pages": [
         {
           "page": "superops/how-to-sign-a-petition-with-privacy-options"
@@ -231,8 +231,8 @@
       ]
     },
     {
-      "group": "General",
       "icon": "folder",
+      "group": "General",
       "pages": [
         {
           "page": "general/testing-anchor-links"
@@ -246,8 +246,8 @@
       ]
     },
     {
-      "group": "Guides & FAQs",
       "icon": "book-bookmark",
+      "group": "Guides & FAQs",
       "pages": [
         {
           "page": "guides-faqs/templates-announcing-atom-to-your-employees"
@@ -258,8 +258,8 @@
       ]
     },
     {
-      "group": "PROD Import 2026-06-25",
       "icon": "book-bookmark",
+      "group": "PROD Import",
       "pages": [
         {
           "page": "prod-import-2026-06-25/run-audits-to-fix-broken-links-and-conflicts"
