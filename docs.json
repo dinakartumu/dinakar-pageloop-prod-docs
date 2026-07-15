@@ -14,22 +14,6 @@
       "page": "index"
     },
     {
-      "group": "Getting Started",
-      "pages": [
-        {
-          "page": "quickstart"
-        }
-      ]
-    },
-    {
-      "group": "Guides",
-      "pages": [
-        {
-          "page": "guides/writing-docs"
-        }
-      ]
-    },
-    {
       "page": "how-to-use-refine-and-rerun-to-update-articles"
     },
     {
@@ -251,9 +235,6 @@
       "pages": [
         {
           "page": "guides-faqs/templates-announcing-atom-to-your-employees"
-        },
-        {
-          "page": "guides-faqs/testing-webhook"
         }
       ]
     },
@@ -266,6 +247,9 @@
         },
         {
           "page": "prod-import-2026-06-25/getting-started-with-pageloop"
+        },
+        {
+          "page": "guides-faqs/testing-webhook"
         },
         {
           "page": "prod-import-2026-06-25/article-template"
